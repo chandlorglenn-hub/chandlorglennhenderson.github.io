@@ -64,7 +64,7 @@ socials = [https://bio.site/ChandlorHenderson]
 # Upload files to the "media" folder on GitHub, then write the
 # file's name here.
 
-banner_photo = "media/banner.jpg"   # A portrait or banner photo of you
+banner_photo = Hendo_fam_Havana.jpg   # A portrait or banner photo of you
 resume = "media/resume.pdf"         # A PDF of your resume (adds a Resume button)
 favicon = ""                        # Tiny browser-tab icon. Empty = made for you
 
