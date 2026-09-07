@@ -64,8 +64,8 @@ socials = [https://bio.site/ChandlorHenderson]
 # Upload files to the "media" folder on GitHub, then write the
 # file's name here.
 
-banner_photo = Hendo_fam_Havana.jpg   # A portrait or banner photo of you
-resume = Resume.pdf         # A PDF of your resume (adds a Resume button)
+banner_photo = "Hendo_fam_Havana.jpg"   # A portrait or banner photo of you
+resume = "Resume.pdf"         # A PDF of your resume (adds a Resume button)
 favicon = ""                        # Tiny browser-tab icon. Empty = made for you
 
 # ── About you ───────────────────────────────────────────────
@@ -80,7 +80,7 @@ I will largely be working in West Conta Costa County.
 """
 
 # Optional extra line at the bottom of every page.
-footer = ""
+footer = "stay cool"
 
 
 # ============================================================
@@ -101,21 +101,21 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
-title = "City Council approves protected bike lanes for Telegraph Avenue"
-description = "After a decade of debate and three hours of public comment, Berkeley's City Council voted 7–2 to build protected bike lanes along one of the city's busiest corridors."
-url = "https://example.com/your-story-link-goes-here"
-image = "media/work/bike-lanes.jpg"
-date = "March 2026"
+title = "Labor Unions say Ice Out"
+description = "This is a photo essay made by Chandlor Henderson"
+url = "https://eugeneweekly.com/2026/03/11/labor-unions-say-ice-out-feb-28/"
+image = ""
+date = "March 11, 2026"
 category = "Journalism"
-outlet = "Berkeleyside"
+outlet = "https://eugeneweekly.com/"
 
 [[work]]
-title = "The wells are running dry: a Central Valley town confronts its future"
-description = "In Teviston, families have watched their taps sputter for years. Now a state grant promises relief — but the water table keeps falling faster than the money arrives."
-url = "https://example.com/your-story-link-goes-here"
-image = "media/work/drought.jpg"
-date = "January 2026"
-category = "Journalism"
+title = ""
+description = ""
+url = ""
+image = ""
+date = ""
+category = ""
 outlet = "The San Francisco Chronicle"
 
 [[work]]
