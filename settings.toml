@@ -20,7 +20,7 @@ name = "Chandlor Glenn Henderson"                # ← Required. Everything else
 # A short phrase describing you. Shows up big at the top of most templates.
 tagline = "Multimedia journalist telling the West Contra Costa County diverse stories"
 
-location = "Berkeley, California"
+location = ["Berkeley, California"]
 
 # ── For search engines only (optional) ──────────────────────
 #
