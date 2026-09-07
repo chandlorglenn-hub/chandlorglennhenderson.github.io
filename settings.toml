@@ -29,7 +29,7 @@ location = "Berkeley, California"
 # that read the web, can tell who you are and where you work.
 # Fill them in if they apply to you. If not, leave them empty.
 
-job_title = "Multimedia Journalist"     # Your role, like "Reporter" or "Photojournalist"
+job_title = "Graduate student & Multimedia Journalist"     # Your role, like "Reporter" or "Photojournalist"
 employer = "West CoCo"      # Where you work, intern, or freelance most
 
 # ── The look of your site ───────────────────────────────────
