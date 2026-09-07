@@ -55,7 +55,7 @@ phone = "541-654-9507"                          # e.g. "(510) 555-0123" — or l
 # The right icon appears automatically.
 socials = ["https://bio.site/ChandlorHenderson"]
  
-]
+
 
 # ── Photos and files ────────────────────────────────────────
 #
@@ -63,8 +63,8 @@ socials = ["https://bio.site/ChandlorHenderson"]
 # file's name here.
 
 banner_photo = "Hendo_fam_Havana.jpg"   # A portrait or banner photo of you
-resume = "Resume.pdf"         # A PDF of your resume (adds a Resume button)
-favicon = ""                        # Tiny browser-tab icon. Empty = made for you
+resume = "Resume.pdf"                   # A PDF of your resume (adds a Resume button)
+favicon = ""                            # Tiny browser-tab icon. Empty = made for you
 
 # ── About you ───────────────────────────────────────────────
 #
